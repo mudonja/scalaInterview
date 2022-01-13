@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\velko\Desktop\scalaInterview\scalaInterview\main.cpp(100,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\velko\Desktop\scalaInterview\scalaInterview\main.cpp(134,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\velko\Desktop\scalaInterview\scalaInterview\main.cpp(136,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  scalaInterview.vcxproj -> C:\Users\velko\Desktop\scalaInterview\x64\Debug\scalaInterview.exe

@@ -1,0 +1,17 @@
+#YAML File
+
+- hikers:
+    - 100
+    - 50
+    - 20
+    - 10
+  length: 100
+
+- hikers:
+    - 2.5
+  length: 250
+
+- hikers:
+    - 25
+    - 15
+  length: 150
